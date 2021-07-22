@@ -1,4 +1,4 @@
-package lc070
+package lc0070
 
 //$$ conclusion
 
